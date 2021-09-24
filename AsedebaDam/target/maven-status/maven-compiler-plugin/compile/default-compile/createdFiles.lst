@@ -1,0 +1,9 @@
+ch\asedeba\service\dam\configuration\AsedebaPersistentManager.class
+ch\asedeba\service\dam\adapter\DbToDtoMapper.class
+ch\asedeba\service\dam\model\entities\Timetable.class
+ch\asedeba\service\dam\dbaccess\ActualityDAO.class
+ch\asedeba\service\dam\adapter\ActualityManager.class
+ch\asedeba\service\dam\model\entities\Actuality.class
+ch\asedeba\service\dam\model\dtos\ActualityDTO.class
+ch\asedeba\service\dam\model\dtos\TimetableDTO.class
+ch\asedeba\service\dam\utilities\Utility.class

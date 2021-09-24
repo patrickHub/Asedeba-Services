@@ -1,0 +1,9 @@
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\adapter\ActualityManager.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\configuration\AsedebaPersistentManager.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\adapter\DbToDtoMapper.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\model\dtos\ActualityDTO.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\model\dtos\TimetableDTO.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\model\entities\Timetable.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\dbaccess\ActualityDAO.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\utilities\Utility.java
+D:\ASEDEBA\AsedebaServices\AsedebaDam\src\main\java\ch\asedeba\service\dam\model\entities\Actuality.java

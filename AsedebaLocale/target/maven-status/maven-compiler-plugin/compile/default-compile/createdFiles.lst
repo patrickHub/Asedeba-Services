@@ -1,0 +1,7 @@
+ch\asedeba\service\locale\model\entities\SupportedLocale.class
+ch\asedeba\service\locale\model\beans\MessageFormatterMethod.class
+ch\asedeba\service\locale\utilities\PropertiesUtil.class
+ch\asedeba\service\locale\model\beans\LocaleBean$LocaleDTO.class
+ch\asedeba\service\locale\model\beans\LocaleBean.class
+ch\asedeba\service\locale\handler\LocaleSelectorHandler.class
+ch\asedeba\service\locale\utilities\TemplateUtil.class

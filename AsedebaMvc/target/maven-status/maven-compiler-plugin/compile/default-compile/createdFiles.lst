@@ -1,0 +1,8 @@
+ch\asedeba\service\mvc\configuration\Urls.class
+ch\asedeba\service\mvc\configuration\CustomWebMvcConfigurer.class
+ch\asedeba\service\mvc\filter\RequestResponseLoggingFilter.class
+ch\asedeba\service\mvc\adapter\CustomHandlerInterceptorAdapter.class
+ch\asedeba\service\mvc\configuration\Constants.class
+ch\asedeba\service\mvc\handler\FreeMarkerPageHandler.class
+ch\asedeba\service\mvc\configuration\AppConfigurationMvc.class
+ch\asedeba\service\mvc\model\beans\UrlBean.class
