@@ -1,6 +1,9 @@
 package ch.asedeba.service.mvc.configuration;
 
+import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
+import org.springframework.web.util.UriComponents;
 import org.springframework.web.util.UriComponentsBuilder;
+import ch.asedeba.service.mvc.facade.web.HomeController;
 
 /**
  * {@code Urls} class is a wrapper class that conatains the url of any available page that can be serve by the backend.
@@ -20,6 +23,13 @@ public class Urls {
   public static UriComponentsBuilder uriBase() {
 
     return UriComponentsBuilder.fromUriString(AppConfigurationMvc.getBaseUri());
+
+  }
+
+
+  public static UriComponents getHome() {
+
+    return MvcUriComponentsBuilder.fromMethodName(uriBase(), HomeController.class, "home", new Object()).build();
 
   }
 

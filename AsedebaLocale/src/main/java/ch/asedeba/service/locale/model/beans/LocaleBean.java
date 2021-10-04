@@ -64,7 +64,7 @@ public class LocaleBean {
 
       languageTag = supportedLocale.getLocale();
       label = messages.getProperty("locale_" + supportedLocale.getLocale());
-      url = UriComponentsBuilder.fromUriString(urlComponents.toUriString()).query("hc_locale={language_tag}").buildAndExpand(languageTag).toUriString();
+      url = UriComponentsBuilder.fromUriString(urlComponents.toUriString()).query("as_locale={language_tag}").buildAndExpand(languageTag).toUriString();
 
       supported.add(new LocaleDTO(languageTag, label, url));
 

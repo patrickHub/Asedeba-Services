@@ -25,7 +25,7 @@ public class SupportedLocale {
    * limit supperted_locales list to English as the app is released only in English In next released, we will add other languages in supported_locales list in order to enable its
    * into the app
    */
-  public static final List<SupportedLocale> SUPPORTED_LOCALES = Arrays.asList();
+  public static final List<SupportedLocale> SUPPORTED_LOCALES = Arrays.asList(ENGLISH, FRENCH, GERMAN, ITALIAN, RUSSIAN);
 
   private final String code;
 

@@ -10,6 +10,8 @@ public class Constants {
   public static final String AS_LOCALE = "as_locale";
 
   public static final String TITLE = "title";
+  public static final String ASEDEBA = "ASEDEBA";
+  public static final String ASEDEBA_TITLE = "asedeba_title";
 
   public static final String PRIORITY = "priority";
 

@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: PDjomo
+Built-By: pdjomo
 Build-Jdk: 15.0.1
 Implementation-Title: ASEDEBA Rest
 Implementation-Version: 1.0.0

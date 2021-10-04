@@ -2,6 +2,7 @@ D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\filter\RequestResponseLoggingFilter.java
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\configuration\AppConfigurationMvc.java
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\configuration\Urls.java
+D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\facade\web\HomeController.java
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\model\beans\UrlBean.java
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\adapter\CustomHandlerInterceptorAdapter.java
 D:\ASEDEBA\develop\Asedeba-Services\AsedebaMvc\src\main\java\ch\asedeba\service\mvc\handler\FreeMarkerPageHandler.java
