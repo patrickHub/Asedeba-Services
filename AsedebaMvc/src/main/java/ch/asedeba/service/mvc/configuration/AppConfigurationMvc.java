@@ -10,7 +10,8 @@ import ch.asedeba.service.dam.utilities.Utility;
 public class AppConfigurationMvc {
 
   private static final String PROD_BASE_URI = "https://wwww.asedeba.ch/AsedebaService";
-  private static final String TEST_BASE_URI = "http://127.0.0.1:8070/AsedebaService";
+  // private static final String TEST_BASE_URI = "http://127.0.0.1:8070/AsedebaService";
+  private static final String TEST_BASE_URI = "http://127.0.0.1:8070/AsedebaRest-1.0.0";
 
   public static String getBaseUri() {
 

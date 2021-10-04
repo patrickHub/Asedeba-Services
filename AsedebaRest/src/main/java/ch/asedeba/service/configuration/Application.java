@@ -14,7 +14,7 @@ import ch.asedeba.service.mvc.configuration.CustomWebMvcConfigurer;
 
 @SpringBootApplication(exclude = {SecurityAutoConfiguration.class, HibernateJpaAutoConfiguration.class}, scanBasePackages = {"ch.asedeba.service.*"})
 
-@ComponentScan(basePackages = {"ch.asedeba.service.rest.v1.api", "ch.asedeba.service.mvc.handler"})
+@ComponentScan(basePackages = {"ch.asedeba.service.rest.v1.api", "ch.asedeba.service.mvc.handler", "ch.asedeba.service.mvc.facade.web"})
 
 @Import({AsedebaPersistentManager.class, CustomWebMvcConfigurer.class})
 
