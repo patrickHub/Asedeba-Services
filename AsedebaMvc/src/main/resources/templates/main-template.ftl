@@ -32,6 +32,9 @@
                  <!-- Navbar Menu Header -->
                 	<#include "./commons/public-menu-header.ftl">
                 <!-- Navbar Menu Header -->
+                   <!-- Navbar Spot Header -->
+                	<#include "./commons/public-spot-header.ftl">
+                <!-- Navbar Spot Header -->
             </header>
             
             <!-- Main -->

@@ -1,5 +1,5 @@
 <!--Navbar-->
-<nav class="public-menu-header navbar-expand-lg global-header__wrapper--logo-menus as-primary-bg-color">
+<nav class="public-menu__header navbar-expand-lg global-header__wrapper--logo-menus as-primary-bg-color">
     <div class="container_fluid inherit-height">
         <div class="as-menu-burger d-flex justify-content-between">
             <a class="navbar-brand as-white-color" href="tel:0041779962916">
@@ -26,10 +26,10 @@
 
                 <div id="as_menu_col_1_Body" class="collapse menu-collapse-body border-start border-bottom border-end" data-bs-parent="#as-menu-accordion">
                     <div class="">
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.in_bref")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_values")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_history")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_organization")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.in_bref")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_values")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_history")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_organization")}</p>
                     </div>
                 </div>
             </div>
@@ -49,10 +49,10 @@
 
                 <div id="as_menu_col_2_Body" class="collapse menu-collapse-body border-start border-bottom border-end" data-bs-parent="#as-menu-accordion">
                     <div class="">
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.in_bref")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_values")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_history")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_organization")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.in_bref")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_values")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_history")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_organization")}</p>
                     </div>
                 </div>
             </div>
@@ -72,10 +72,10 @@
 
                 <div id="as_menu_col_3_Body" class="collapse menu-collapse-body border-start border-bottom border-end" data-bs-parent="#as-menu-accordion">
                     <div class="">
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.in_bref")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_values")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_history")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_organization")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.in_bref")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_values")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_history")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_organization")}</p>
                     </div>
                 </div>
             </div>
@@ -95,10 +95,10 @@
 
                 <div id="as_menu_col_4_Body" class="collapse menu-collapse-body border-start border-bottom border-end" data-bs-parent="#as-menu-accordion">
                     <div class="">
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.in_bref")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_values")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_history")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_organization")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.in_bref")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_values")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_history")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_organization")}</p>
                     </div>
                 </div>
             </div>
@@ -118,10 +118,10 @@
 
                 <div id="as_menu_col_5_Body" class="collapse menu-collapse-body border-start border-bottom border-end" data-bs-parent="#as-menu-accordion">
                     <div class="">
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.in_bref")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_values")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_history")}</p>
-                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu-header.our_organization")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.in_bref")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_values")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_history")}</p>
+                        <p class="text-start font-weight-bold rounded-3">${msg("public-menu__header.our_organization")}</p>
                     </div>
                 </div>
             </div>
